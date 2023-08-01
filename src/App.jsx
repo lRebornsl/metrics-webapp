@@ -1,7 +1,9 @@
+import NavBar from "./components/NavBar"
+
 const App = () => (
-  <div className='container mx-auto text-center'>
-      <h1>Hello!</h1>
-  </div>
+  <>
+    <NavBar />
+  </>
 )
 
 export default App
