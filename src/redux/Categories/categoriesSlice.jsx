@@ -1,10 +1,9 @@
-import { createReducer } from "@reduxjs/toolkit";
 import { categoryList } from "../../utils/constant";
 
 const initialState = {
   categories: categoryList,
 };
 
-const categoriesSlice = createReducer(initialState);
+const categoriesSlice = (state = initialState) => state;
 
 export default categoriesSlice;
