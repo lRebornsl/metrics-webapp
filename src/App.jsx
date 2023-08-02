@@ -1,10 +1,13 @@
+import { Route, Routes } from "react-router-dom"
 import Categories from "./components/Categories"
 import NavBar from "./components/NavBar"
 
 const App = () => (
   <>
     <NavBar />
-    <Categories />
+    <Routes>
+      <Route path="/" element={<Categories />} />
+    </Routes>
   </>
 )
 
