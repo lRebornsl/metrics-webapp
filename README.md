@@ -16,6 +16,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -51,7 +52,16 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Show a react webpage**
+- **Show you a list of MMO categories with games count.**
+- **Show you a games page of each category.**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://metrics-webapp-e2k0.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +161,7 @@ If you like this project please show us support by givintg it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my colleagues at Microverse for their support during the project.
+I would like to thank my colleagues at Microverse for their support during the project and thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for his design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
