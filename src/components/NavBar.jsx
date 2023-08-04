@@ -9,9 +9,9 @@ const NavBar = () => {
 
   return(
     <div className="px-4 py-2 text-center bg-yonder flex justify-between">
-      {home ? (<button><img src={menu_icon} alt="Icon Image"></img></button>) : (<Link to="/"><img src={back_icon} alt="Icon" /></Link>)}
+      {home ? (<button><img src={menu_icon} alt="Menu"></img></button>) : (<Link to="/"><img src={back_icon} alt="Back" /></Link>)}
       <h1 className="text-white font-bold text-xl">MMO GAMES</h1>
-      <img className="h-full" src={settings_icon} alt="Icon Image"></img>
+      <img className="h-full" src={settings_icon} alt="Settings"></img>
     </div>
   )
 }

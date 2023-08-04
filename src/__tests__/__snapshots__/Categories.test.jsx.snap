@@ -1,0 +1,417 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Categories tests > Categories renders correctly 1`] = `[Function]`;
+
+exports[`Categories tests > Images are rendered correctly 1`] = `
+[
+  <img
+    alt="Icon"
+    src="/src/assets/categories_icons/categories_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/mmorpg_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/shooter_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/strategy_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/moba_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/racing_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/sports_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/social_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/sandbox_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/open_world_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/survival_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/pvp_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/pve_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/pixel_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/voxel_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/zombie_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/turn_based_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/first_person_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/third_person_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/top_down_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/tank_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/space_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/sailing_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/side_scroller_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/superhero_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/permadeath_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/card_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/battle_royale_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/mmo_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/mmo_fps_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/mmo_tps_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/twod_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/threed_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/anime_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/fantasy_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/sci_fi_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/fighting_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/action_rpg_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/action_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/military_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/martial_arts_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/flight_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/low_spec_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/tower_defense_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/horror_icon.png"
+  />,
+  <img
+    alt="Icon"
+    src="/src/assets/forward_icon.png"
+  />,
+  <img
+    alt="Icon"
+    class="mx-auto py-2"
+    src="/src/assets/categories_icons/mmorts_icon.png"
+  />,
+]
+`;

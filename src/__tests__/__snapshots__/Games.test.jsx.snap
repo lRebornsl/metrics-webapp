@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Games tests > Games renders correctly 1`] = `[Function]`;
+
+exports[`Games tests > Images are rendered correctly 1`] = `NodeList []`;
