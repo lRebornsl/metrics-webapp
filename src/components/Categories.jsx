@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import forward_icon from "../assets/forward_icon.png";
 import categories_icon from "../assets/categories_icons/categories_icon.png";
 import { getGamesByCategory } from "../redux/Games/gamesSlice";
+import { Link } from "react-router-dom";
 
 const Categories = () => {
   const categories = useSelector((state) => state.categoriesSlice.categories);
@@ -33,7 +34,7 @@ const Categories = () => {
         {categories.map((category, index) => (
           <div className={`p-1 h-50 font-bold ${!category.bg ? "bg-queen" : "bg-yonder"}`} key={index}>
             <div className="flex justify-end items-center">
-              <a href=""><img src={forward_icon} alt="Icon" /></a>
+              <Link to='/games' state={ category.name }><img src={forward_icon} alt="Icon" /></Link>
             </div>
             <img className="mx-auto py-2" src={category.img} alt="Icon" />
             <h2 className="uppercase text-end">{category.name}</h2>
