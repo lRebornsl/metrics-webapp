@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`NavBar tests > Icons are rendered correctly 1`] = `
+<img
+  alt="Menu"
+  src="/src/assets/menu_icon.png"
+/>
+`;
+
+exports[`NavBar tests > Icons are rendered correctly 2`] = `
+<img
+  alt="Settings"
+  class="h-full"
+  src="/src/assets/settings_icon.png"
+/>
+`;
+
+exports[`NavBar tests > NavBar renders correctly 1`] = `[Function]`;
