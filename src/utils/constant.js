@@ -76,8 +76,8 @@ export const categoryList = [
   { "name": "mmo", "bg": true, "img": mmo_icon },
   { "name": "mmofps", "bg": true, "img": mmo_fps_icon },
   { "name": "mmotps", "bg": false, "img": mmo_tps_icon },
-  { "name": "3d", "bg": false, "img": twod_icon },
-  { "name": "2d", "bg": true, "img": threed_icon },
+  { "name": "2d", "bg": false, "img": twod_icon },
+  { "name": "3d", "bg": true, "img": threed_icon },
   { "name": "anime", "bg": true, "img": anime_icon },
   { "name": "fantasy", "bg": false, "img": fantasy_icon },
   { "name": "sci-fi", "bg": false, "img": sci_fi_icon },
@@ -92,3 +92,5 @@ export const categoryList = [
   { "name": "horror", "bg": true, "img": horror_icon },
   { "name": "mmorts", "bg": true, "img": mmorts_icon }
 ];
+
+export const URL = "https://mmo-games.p.rapidapi.com/games";
