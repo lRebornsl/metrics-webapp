@@ -11,7 +11,7 @@ const Games = () => {
 
   useEffect(() => {
     dispatch(getGamesByCategory(categoryName))
-  }, [dispatch]);
+  }, [dispatch, categoryName]);
 
   return(
     <div>

@@ -1,5 +1,5 @@
 import { render, waitFor, screen } from "@testing-library/react";
-import { beforeEach, describe, expect } from "vitest";
+import { beforeEach, describe, expect, it } from "vitest";
 import Categories from "../components/Categories";
 import { Provider } from "react-redux";
 import store from "../redux/store";

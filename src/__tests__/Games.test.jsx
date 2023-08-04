@@ -1,6 +1,6 @@
 import { render, waitFor } from "@testing-library/react";
 import { Provider } from "react-redux";
-import { describe, expect, it } from "vitest";
+import { beforeEach, describe, expect, it } from "vitest";
 import store from "../redux/store";
 import { MemoryRouter } from "react-router-dom";
 import Games from "../components/Games";
