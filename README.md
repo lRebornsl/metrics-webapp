@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 React To-Do List <a name="about-project"></a>
+# 📖 Metrics Webapp <a name="about-project"></a>
 
 **Metrics Webapp** is a mobile web application to check a list of metrics (numeric values) created using React and Redux.
 
@@ -62,6 +62,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://metrics-webapp-e2k0.onrender.com)
+- [Video Presentation](https://www.loom.com/share/32a342afaf2940af84dc47f6e7f091d7?sid=83c3cc8e-cbd8-4eff-b9f2-b2a02cdb857e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
